@@ -24,12 +24,12 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ios-calculator.git
+   git clone https://github.com/mohsenahanj/ios-calculator.git
    cd ios-calculator
 
 ---
 
-**# Usage
+# Usage
 
 - **After opening the application,** you will see the calculator interface.
 - **Use the number buttons to input values.**
@@ -43,7 +43,7 @@
 
 ---
 
-**# Technologies Used
+# Technologies Used
 
 - **HTML5:** For structuring the calculator interface.
 - **CSS3:** For styling the calculator with a modern and responsive design.
@@ -51,13 +51,13 @@
 
 ---
 
-**# Acknowledgments
+# Acknowledgments
 Inspiration from the iOS calculator app.
 Built using HTML, CSS, and JavaScript.
 
 ---
 
-**#Contact
+#Contact
 - **If you have any questions or feedback, feel free to reach out:**
 
 Email: ahanjm@gmail.com
