@@ -57,7 +57,7 @@ Built using HTML, CSS, and JavaScript.
 
 ---
 
-#Contact
+# Contact
 - **If you have any questions or feedback, feel free to reach out:**
 
 Email: ahanjm@gmail.com
